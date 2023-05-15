@@ -1,1 +1,2 @@
 export DAPP_SOLC=$(pwd)/.devenv/profile/bin/solc-0.6.12
+export DAPP_REMAPPINGS=$(cat ./remappings.txt)
