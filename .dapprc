@@ -1,0 +1,1 @@
+export DAPP_SOLC=../.direnv/profile/bin/solc-0.6.12
